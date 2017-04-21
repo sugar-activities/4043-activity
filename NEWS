@@ -1,0 +1,115 @@
+35
+
+*New translations
+*Erasing an unusual file OLPC#11218
+
+34
+
+*Fix for OLPC #10930  by Gonzalo Odiard.
+*Remove code setting accelerator to KeepButton because was removed from defualt toolbar by Gonzalo Odiard.
+*New string translations by korakurader, cjl, aputsiaq, khaled, samybt.
+
+
+
+33
+
+* Adding a zoom out and zoom in button, with accelerators, which change
+text font size of the terminal area.  Same accelerators as used by
+GNOME Terminal. by:manuel quiñones <manuel.por.aca@gmail.com>
+* Changing gtk to sugar notebook by natetheis, natetheis @gmail.com
+
+32
+
+* New Icon and fix for activity.info deprecations
+Bugs Fixed: SL#1492,  SL#2172
+
+28
+
+* Updated Vietnamese translations
+
+27
+
+* Make canvas emit motion-notify-event during pointer motion. dslo#1402 (Aleksey Lim)
+* Fix typo (dslo#1356) (Aleksey Lim)
+* Updated translations for French, German, Portuguese and Mongolian 
+
+26
+
+* Toolbar redesign
+* New and updated translations
+
+25
+
+* Fix exception when starting with no terminalrc.
+* New translations
+
+24
+
+* Add tabs.
+* Add journal save/resume of tabs, scrollback working directory.
+
+23
+
+* Change default fontsize to 10 from 8
+* New translations
+
+21
+
+* New translations
+
+20
+
+* #4646: Fix systemwide shortcut breakage (Martin Dengler)
+* #8515: Make the root shell a login shell
+* Add drop support to Terminal (Cortland Setlow)
+* Updated tr and pt translations
+
+
+15
+
+* New and updated translations
+
+14
+
+* Translation updates for Chinese (Simplified), Dutch, Mongolian and Telugu 
+
+13
+
+* Translation updates
+
+12
+
+* #5520: Make the activity exit when the user exits the shell. (sayamindu)
+
+11
+
+* Add po/Terminal.pot for preliminary i18n support.
+
+10
+
+9
+
+* #6316: Cause the 'become root' button to fork a root terminal. (mstone)
+
+8
+
+* #5537: Add a button and icon to launch a 'become_root' script. (phil, mstone)
+
+7
+
+* Remove mime types support. (tomeu)
+
+6
+
+* #5376: Add copy&paste support using the Edit toolbar. (tomeu)
+
+2
+
+* #4345: Terminal Activity should start in home directory
+* Internal code cleanups
+* #4335: Decrease font size to 8px
+
+1
+
+* Initial Version
+

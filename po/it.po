@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-20 00:32-0400\n"
+"PO-Revision-Date: 2012-01-11 14:17+0200\n"
+"Last-Translator: maux77 <dreadlock@hotmail.it>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Terminal"
+msgstr "Terminale"
+
+#: terminal.py:166
+msgid "Zoom out"
+msgstr "Zoom indietro"
+
+#: terminal.py:173
+msgid "Zoom in"
+msgstr "Zoom avanti"
+
+#: terminal.py:180
+msgid "Fullscreen"
+msgstr "Schermo intero"
+
+#: terminal.py:206
+msgid "Open New Tab"
+msgstr "Apri Nuova Scheda"
+
+#: terminal.py:213
+msgid "Close Tab"
+msgstr "Chiudi Scheda"
+
+#: terminal.py:221
+msgid "Previous Tab"
+msgstr "Scheda Precedente"
+
+#: terminal.py:229
+msgid "Next Tab"
+msgstr "Prossima Scheda"
+
+#~ msgid "Become root"
+#~ msgstr "Diventa root (amministratore)"
+
+#~ msgid "Terminal Activity"
+#~ msgstr "Attività Terminale"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Tab"
+#~ msgstr "Scheda"
